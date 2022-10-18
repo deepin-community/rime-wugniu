@@ -1,0 +1,23 @@
+rime-wugniu (0.0~git20190120.abd1ee9-3) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Debian Input Method Team <debian-input-method@lists.debian.org>  Fri, 22 Apr 2022 17:43:29 +0800
+
+rime-wugniu (0.0~git20190120.abd1ee9-3) unstable; urgency=medium
+
+  * Fix incorrect binary package type: arch:all -> arch:any.
+
+ -- Boyuan Yang <byang@debian.org>  Tue, 15 Feb 2022 16:01:52 -0500
+
+rime-wugniu (0.0~git20190120.abd1ee9-2) unstable; urgency=medium
+
+  * Source-only upload.
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 09 Feb 2022 19:53:24 -0500
+
+rime-wugniu (0.0~git20190120.abd1ee9-1) unstable; urgency=medium
+
+  * Initial upload. (Closes: #1002474)
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 22 Dec 2021 13:47:04 -0500
